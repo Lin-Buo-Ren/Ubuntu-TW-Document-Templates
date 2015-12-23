@@ -1,4 +1,4 @@
-# Ubuntu 台灣社群簡報範本
+# Ubuntu 台灣社群文件範本
 ## 原始作者
 Ｖ字龍 &lt;<Vdragon.Taiwan@gmail.com>&gt;
 
