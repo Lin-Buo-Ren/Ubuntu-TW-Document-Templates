@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.presentation">
- <office:meta><meta:creation-date>2015-06-26T02:01:05.473701983</meta:creation-date><meta:generator>LibreOffice/5.0.3.2$Linux_x86 LibreOffice_project/00m0$Build-2</meta:generator><dc:date>2015-12-23T14:55:31.580230532</dc:date><meta:editing-duration>PT12H23M30S</meta:editing-duration><meta:editing-cycles>11</meta:editing-cycles><dc:creator>Ubuntu 台灣社群</dc:creator><meta:document-statistic meta:object-count="56"/></office:meta>
+ <office:meta><meta:creation-date>2015-12-23T14:59:08.334540959</meta:creation-date><meta:generator>LibreOffice/5.0.3.2$Linux_x86 LibreOffice_project/00m0$Build-2</meta:generator><meta:editing-duration>PT5M32S</meta:editing-duration><meta:editing-cycles>2</meta:editing-cycles><meta:initial-creator>ubuntu 台灣社群</meta:initial-creator><dc:date>2015-12-23T15:01:04.524869890</dc:date><dc:creator>Ubuntu 台灣社群</dc:creator><meta:document-statistic meta:object-count="56"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">-328</config:config-item>
@@ -37,10 +37,10 @@
      <config:config-item config:name="EditModeStandard" config:type="int">0</config:config-item>
      <config:config-item config:name="EditModeNotes" config:type="int">0</config:config-item>
      <config:config-item config:name="EditModeHandout" config:type="int">1</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">-7761</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">-441</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">28885</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">36602</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">-318</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">-1588</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">31169</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">21617</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">2000</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">2000</config:config-item>
      <config:config-item config:name="GridFineWidth" config:type="int">200</config:config-item>
@@ -870,6 +870,7 @@
    </draw:frame>
   </style:handout-master>
   <style:master-page style:name="封面" style:page-layout-name="PM1" draw:style-name="dp1">
+   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
    <draw:frame presentation:style-name="封面-title" draw:layer="backgroundobjects" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.4cm" svg:y="0.837cm" presentation:class="title" presentation:placeholder="true">
     <draw:text-box/>
    </draw:frame>
@@ -1016,6 +1017,7 @@
     </draw:image>
    </draw:frame>
    <presentation:notes style:page-layout-name="PM0">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:page-thumbnail presentation:style-name="封面-title" draw:layer="backgroundobjects" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.075cm" svg:y="2.257cm" presentation:class="page"/>
     <draw:frame presentation:style-name="封面-notes" draw:layer="backgroundobjects" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
      <draw:text-box/>
@@ -1239,11 +1241,15 @@
   <office:presentation>
    <draw:page draw:name="封面頁" draw:style-name="dp4" draw:master-page-name="封面" presentation:presentation-page-layout-name="AL1T0">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:frame presentation:style-name="pr7" draw:text-style-name="P9" draw:layer="layout" svg:width="25.199cm" svg:height="14.363cm" svg:x="1.4cm" svg:y="0.837cm" presentation:class="title" presentation:placeholder="true" presentation:user-transformed="true">
-     <draw:text-box/>
+    <draw:frame presentation:style-name="pr7" draw:text-style-name="P9" draw:layer="layout" svg:width="25.199cm" svg:height="14.363cm" svg:x="1.4cm" svg:y="0.837cm" presentation:class="title" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:p><text:file-name text:display="name">Ubuntu 台灣社群簡報範本</text:file-name></text:p>
+     </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr8" draw:text-style-name="P10" draw:layer="layout" svg:width="25.199cm" svg:height="1.692cm" svg:x="1.4cm" svg:y="15.4cm" presentation:class="subtitle" presentation:placeholder="true" presentation:user-transformed="true">
-     <draw:text-box/>
+    <draw:frame presentation:style-name="pr8" draw:text-style-name="P10" draw:layer="layout" svg:width="25.199cm" svg:height="1.692cm" svg:x="1.4cm" svg:y="15.4cm" presentation:class="subtitle" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:p><text:author-name text:fixed="false">Ubuntu 台灣社群 </text:author-name></text:p>
+     </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
      <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="1" presentation:class="page"/>
