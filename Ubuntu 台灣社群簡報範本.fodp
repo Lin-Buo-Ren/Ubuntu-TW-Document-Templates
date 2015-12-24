@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.presentation">
- <office:meta><meta:creation-date>2015-12-23T14:59:08.334540959</meta:creation-date><meta:generator>LibreOffice/5.0.3.2$Linux_x86 LibreOffice_project/00m0$Build-2</meta:generator><meta:editing-duration>PT10M9S</meta:editing-duration><meta:editing-cycles>3</meta:editing-cycles><meta:initial-creator>ubuntu 台灣社群</meta:initial-creator><dc:date>2015-12-23T15:06:49.117124670</dc:date><dc:creator>Ubuntu 台灣社群</dc:creator><meta:document-statistic meta:object-count="58"/></office:meta>
+ <office:meta><meta:creation-date>2015-12-23T14:59:08.334540959</meta:creation-date><meta:generator>LibreOffice/5.0.3.2$Linux_x86 LibreOffice_project/00m0$Build-2</meta:generator><meta:editing-duration>PT1H12M30S</meta:editing-duration><meta:editing-cycles>10</meta:editing-cycles><meta:initial-creator>ubuntu 台灣社群</meta:initial-creator><dc:date>2015-12-24T10:47:05.461355144</dc:date><dc:creator>Ubuntu 台灣社群</dc:creator><meta:document-statistic meta:object-count="99"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="VisibleAreaTop" config:type="int">1235</config:config-item>
-   <config:config-item config:name="VisibleAreaLeft" config:type="int">-857</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">39883</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">21614</config:config-item>
+   <config:config-item config:name="VisibleAreaTop" config:type="int">-7098</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">210</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">27508</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">33136</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -29,7 +29,7 @@
      <config:config-item config:name="NoColors" config:type="boolean">true</config:config-item>
      <config:config-item config:name="RulerIsVisible" config:type="boolean">true</config:config-item>
      <config:config-item config:name="PageKind" config:type="short">0</config:config-item>
-     <config:config-item config:name="SelectedPage" config:type="short">0</config:config-item>
+     <config:config-item config:name="SelectedPage" config:type="short">4</config:config-item>
      <config:config-item config:name="IsLayerMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
@@ -37,10 +37,10 @@
      <config:config-item config:name="EditModeStandard" config:type="int">0</config:config-item>
      <config:config-item config:name="EditModeNotes" config:type="int">0</config:config-item>
      <config:config-item config:name="EditModeHandout" config:type="int">1</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">-328</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">-832</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">29685</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">21621</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">-7098</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">210</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">27509</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">33137</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">2000</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">2000</config:config-item>
      <config:config-item config:name="GridFineWidth" config:type="int">200</config:config-item>
@@ -51,7 +51,7 @@
      <config:config-item config:name="GridSnapWidthYDenominator" config:type="int">1</config:config-item>
      <config:config-item config:name="IsAngleSnapEnabled" config:type="boolean">false</config:config-item>
      <config:config-item config:name="SnapAngle" config:type="int">1500</config:config-item>
-     <config:config-item config:name="ZoomOnPage" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="ZoomOnPage" config:type="boolean">false</config:config-item>
     </config:config-item-map-entry>
    </config:config-item-map-indexed>
   </config:config-item-set>
@@ -70,6 +70,13 @@
      <config:config-item config:name="Variant" config:type="string"/>
      <config:config-item config:name="BeginLine" config:type="string">!),.:;?]}¢·--&apos;&quot;¨•′、。〉》」』】〕〞︰︱︳︴︶︸︺︼︾﹀﹂﹄﹏﹐､﹒﹔﹕﹖﹗﹚﹜﹞！），．：；？｜｝､</config:config-item>
      <config:config-item config:name="EndLine" config:type="string">([{£¥&apos;&quot;‵〈《「『【〔〝︵︷︹︻︽︿﹁﹃﹙﹛﹝（｛</config:config-item>
+    </config:config-item-map-entry>
+    <config:config-item-map-entry>
+     <config:config-item config:name="Language" config:type="string">en</config:config-item>
+     <config:config-item config:name="Country" config:type="string">US</config:config-item>
+     <config:config-item config:name="Variant" config:type="string"/>
+     <config:config-item config:name="BeginLine" config:type="string"/>
+     <config:config-item config:name="EndLine" config:type="string"/>
     </config:config-item-map-entry>
    </config:config-item-map-indexed>
    <config:config-item config:name="GradientTableURL" config:type="string">$(user)/config/standard.sog</config:config-item>
@@ -110,20 +117,24 @@
   </office:script>
  </office:scripts>
  <office:font-face-decls>
+  <style:font-face style:name="思源黑體" svg:font-family="思源黑體" style:font-adornments="標準"/>
   <style:font-face style:name="Ubuntu2" svg:font-family="Ubuntu" style:font-adornments="標準" style:font-pitch="variable"/>
+  <style:font-face style:name="思源黑體3" svg:font-family="思源黑體" style:font-adornments="標準" style:font-pitch="variable"/>
   <style:font-face style:name="思源黑體 Regular" svg:font-family="&apos;思源黑體 Regular&apos;" style:font-adornments="標準" style:font-pitch="variable"/>
-  <style:font-face style:name="思源黑體 TW Regular2" svg:font-family="&apos;思源黑體 TW Regular&apos;" style:font-adornments="標準" style:font-pitch="variable"/>
+  <style:font-face style:name="思源黑體 TW Regular" svg:font-family="&apos;思源黑體 TW Regular&apos;" style:font-adornments="標準" style:font-pitch="variable"/>
   <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Ubuntu" svg:font-family="Ubuntu" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Ubuntu1" svg:font-family="Ubuntu" style:font-adornments="標準" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="AR PL UMing TW" svg:font-family="&apos;AR PL UMing TW&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Droid Sans Fallback" svg:font-family="&apos;Droid Sans Fallback&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="思源黑體1" svg:font-family="思源黑體" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="思源黑體2" svg:font-family="思源黑體" style:font-adornments="標準" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="思源黑體 Regular1" svg:font-family="&apos;思源黑體 Regular&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="思源黑體 Regular2" svg:font-family="&apos;思源黑體 Regular&apos;" style:font-adornments="標準" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="思源黑體 TW Normal" svg:font-family="&apos;思源黑體 TW Normal&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
-  <style:font-face style:name="思源黑體 TW Regular" svg:font-family="&apos;思源黑體 TW Regular&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
-  <style:font-face style:name="思源黑體 TW Regular1" svg:font-family="&apos;思源黑體 TW Regular&apos;" style:font-adornments="標準" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="思源黑體 TW Regular1" svg:font-family="&apos;思源黑體 TW Regular&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="思源黑體 TW Regular2" svg:font-family="&apos;思源黑體 TW Regular&apos;" style:font-adornments="標準" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="文泉驛微米黑" svg:font-family="文泉驛微米黑" style:font-family-generic="system" style:font-pitch="variable"/>
  </office:font-face-decls>
  <office:styles>
@@ -444,7 +455,7 @@
   <style:style style:name="預設-notes" style:family="presentation">
    <style:graphic-properties draw:stroke="none" draw:fill="none" draw:fill-image-width="0cm" draw:fill-image-height="0cm"/>
    <style:paragraph-properties fo:margin-left="0.6cm" fo:margin-right="0cm" fo:text-indent="-0.6cm"/>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Ubuntu2" fo:font-family="Ubuntu" style:font-style-name="標準" style:font-pitch="variable" fo:font-size="20pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="思源黑體 TW Regular2" style:font-family-asian="&apos;思源黑體 TW Regular&apos;" style:font-style-name-asian="標準" style:font-pitch-asian="variable" style:font-size-asian="20pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="思源黑體 TW Normal" style:font-family-complex="&apos;思源黑體 TW Normal&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="20pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Ubuntu2" fo:font-family="Ubuntu" style:font-style-name="標準" style:font-pitch="variable" fo:font-size="20pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="思源黑體 TW Regular" style:font-family-asian="&apos;思源黑體 TW Regular&apos;" style:font-style-name-asian="標準" style:font-pitch-asian="variable" style:font-size-asian="20pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="思源黑體 TW Normal" style:font-family-complex="&apos;思源黑體 TW Normal&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="20pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="預設-outline1" style:family="presentation">
    <style:graphic-properties draw:stroke="none" draw:fill="none" draw:auto-grow-height="false" draw:fit-to-size="shrink-to-fit">
@@ -492,7 +503,7 @@
     </text:list-style>
    </style:graphic-properties>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.498cm" fo:margin-bottom="0cm" fo:text-indent="0cm"/>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#333333" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Ubuntu2" fo:font-family="Ubuntu" style:font-style-name="標準" style:font-pitch="variable" fo:font-size="32pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="思源黑體 TW Regular2" style:font-family-asian="&apos;思源黑體 TW Regular&apos;" style:font-style-name-asian="標準" style:font-pitch-asian="variable" style:font-size-asian="32pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="思源黑體 TW Normal" style:font-family-complex="&apos;思源黑體 TW Normal&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="32pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#333333" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Ubuntu2" fo:font-family="Ubuntu" style:font-style-name="標準" style:font-pitch="variable" fo:font-size="32pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="思源黑體 TW Regular" style:font-family-asian="&apos;思源黑體 TW Regular&apos;" style:font-style-name-asian="標準" style:font-pitch-asian="variable" style:font-size-asian="32pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="思源黑體 TW Normal" style:font-family-complex="&apos;思源黑體 TW Normal&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="32pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="預設-outline2" style:family="presentation" style:parent-style-name="預設-outline1">
    <style:paragraph-properties fo:margin-top="0.4cm" fo:margin-bottom="0cm"/>
@@ -620,7 +631,7 @@
     </text:list-style>
    </style:graphic-properties>
    <style:paragraph-properties fo:text-align="center"/>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#333333" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="44pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="文泉驛微米黑" style:font-family-asian="文泉驛微米黑" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="44pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="思源黑體 TW Normal" style:font-family-complex="&apos;思源黑體 TW Normal&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="44pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#333333" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Ubuntu2" fo:font-family="Ubuntu" style:font-style-name="標準" style:font-pitch="variable" fo:font-size="44pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" fo:background-color="transparent" style:font-name-asian="思源黑體" style:font-family-asian="思源黑體" style:font-style-name-asian="標準" style:font-size-asian="44pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="思源黑體 TW Normal" style:font-family-complex="&apos;思源黑體 TW Normal&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="44pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:presentation-page-layout style:name="AL0T26">
    <presentation:placeholder presentation:object="handout" svg:x="2.057cm" svg:y="1.743cm" svg:width="10.555cm" svg:height="-0.233cm"/>
@@ -658,12 +669,12 @@
   <style:style style:name="dp4" style:family="drawing-page">
    <style:drawing-page-properties presentation:background-visible="true" presentation:background-objects-visible="true" presentation:display-footer="false" presentation:display-page-number="false" presentation:display-date-time="false"/>
   </style:style>
-  <number:date-style style:name="D4">
+  <number:date-style style:name="D3">
    <number:day number:style="long"/>
    <number:text>.</number:text>
    <number:month number:style="long"/>
    <number:text>.</number:text>
-   <number:year number:style="long"/>
+   <number:year/>
   </number:date-style>
   <style:style style:name="gr1" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:stroke="none" draw:fill="none" draw:fill-color="#ffffff" draw:auto-grow-height="false" fo:min-height="1.485cm"/>
@@ -674,7 +685,10 @@
   <style:style style:name="gr3" style:family="graphic" style:parent-style-name="物體無填充也無線條">
    <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="middle" draw:color-mode="standard" draw:luminance="0%" draw:contrast="0%" draw:gamma="100%" draw:red="0%" draw:green="0%" draw:blue="0%" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:image-opacity="100%" style:mirror="none"/>
   </style:style>
-  <style:style style:name="gr4" style:family="graphic">
+  <style:style style:name="gr4" style:family="graphic" style:parent-style-name="物體無填充也無線條">
+   <style:graphic-properties draw:textarea-vertical-align="middle" draw:color-mode="standard" draw:luminance="0%" draw:contrast="0%" draw:gamma="100%" draw:red="0%" draw:green="0%" draw:blue="0%" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:image-opacity="100%" style:mirror="none"/>
+  </style:style>
+  <style:style style:name="gr5" style:family="graphic">
    <style:graphic-properties style:protect="size"/>
   </style:style>
   <style:style style:name="pr1" style:family="presentation" style:parent-style-name="封面-backgroundobjects">
@@ -705,13 +719,19 @@
    <style:graphic-properties draw:fill-color="#ffffff" fo:min-height="13.364cm"/>
   </style:style>
   <style:style style:name="pr10" style:family="presentation" style:parent-style-name="預設-title">
-   <style:graphic-properties draw:auto-grow-height="true" fo:min-height="3.506cm"/>
+   <style:graphic-properties draw:auto-grow-height="true" fo:min-height="4.052cm"/>
   </style:style>
   <style:style style:name="pr11" style:family="presentation" style:parent-style-name="預設-outline1">
-   <style:graphic-properties fo:min-height="11.928cm"/>
+   <style:graphic-properties draw:auto-grow-height="false" fo:min-height="12.686cm"/>
   </style:style>
   <style:style style:name="pr12" style:family="presentation" style:parent-style-name="預設-notes">
    <style:graphic-properties draw:fill-color="#ffffff" fo:min-height="13.364cm"/>
+  </style:style>
+  <style:style style:name="pr13" style:family="presentation" style:parent-style-name="預設-outline1">
+   <style:graphic-properties fo:min-height="11.928cm"/>
+  </style:style>
+  <style:style style:name="pr14" style:family="presentation" style:parent-style-name="預設-title">
+   <style:graphic-properties fo:min-height="3.506cm"/>
   </style:style>
   <style:style style:name="P1" style:family="paragraph">
    <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
@@ -752,8 +772,17 @@
   <style:style style:name="P10" style:family="paragraph">
    <loext:graphic-properties draw:fill-color="#ffffff"/>
   </style:style>
+  <style:style style:name="P11" style:family="paragraph">
+   <style:paragraph-properties fo:text-align="center"/>
+  </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <text:list-style style:name="L1">
    <text:list-level-style-bullet text:level="1" text:bullet-char="●">
@@ -839,6 +868,48 @@
     <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
    </text:list-level-style-bullet>
   </text:list-style>
+  <text:list-style style:name="L3">
+   <text:list-level-style-bullet text:level="1" text:bullet-char="●">
+    <style:list-level-properties text:space-before="0.3cm" text:min-label-width="0.9cm"/>
+    <style:text-properties fo:font-family="StarSymbol" fo:color="#dd4814" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:bullet-char="–">
+    <style:list-level-properties text:space-before="1.5cm" text:min-label-width="0.9cm"/>
+    <style:text-properties fo:font-family="StarSymbol" fo:color="#dd4814" fo:font-size="75%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:bullet-char="●">
+    <style:list-level-properties text:space-before="2.8cm" text:min-label-width="0.8cm"/>
+    <style:text-properties fo:font-family="StarSymbol" fo:color="#dd4814" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:bullet-char="–">
+    <style:list-level-properties text:space-before="4.2cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" fo:color="#dd4814" fo:font-size="75%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:bullet-char="●">
+    <style:list-level-properties text:space-before="5.4cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" fo:color="#dd4814" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:bullet-char="●">
+    <style:list-level-properties text:space-before="6.6cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" fo:color="#dd4814" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:bullet-char="●">
+    <style:list-level-properties text:space-before="7.8cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" fo:color="#dd4814" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:bullet-char="●">
+    <style:list-level-properties text:space-before="9cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" fo:color="#dd4814" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:bullet-char="●">
+    <style:list-level-properties text:space-before="10.2cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" fo:color="#dd4814" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:bullet-char="●">
+    <style:list-level-properties text:space-before="11.4cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" fo:color="#dd4814" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
  </office:automatic-styles>
  <office:master-styles>
   <draw:layer-set>
@@ -857,26 +928,27 @@
    <draw:page-thumbnail draw:layer="backgroundobjects" svg:width="8.999cm" svg:height="6.749cm" svg:x="11cm" svg:y="20.05cm"/>
    <draw:frame draw:style-name="gr1" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.112cm" svg:height="1.484cm" svg:x="0cm" svg:y="0cm" presentation:class="header">
     <draw:text-box>
-     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><presentation:header/></text:p>
+     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><presentation:header/></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame draw:style-name="gr1" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.112cm" svg:height="1.484cm" svg:x="11.887cm" svg:y="0cm" presentation:class="date-time">
     <draw:text-box>
-     <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
+     <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame draw:style-name="gr2" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.112cm" svg:height="1.484cm" svg:x="0cm" svg:y="28.215cm" presentation:class="footer">
     <draw:text-box>
-     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
+     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame draw:style-name="gr2" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.112cm" svg:height="1.484cm" svg:x="11.887cm" svg:y="28.215cm" presentation:class="page-number">
     <draw:text-box>
-     <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:page-number>&lt;編號&gt;</text:page-number></text:p>
+     <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:page-number>&lt;編號&gt;</text:page-number></text:p>
     </draw:text-box>
    </draw:frame>
   </style:handout-master>
   <style:master-page style:name="封面" style:page-layout-name="PM1" draw:style-name="dp1">
+   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
    <draw:frame presentation:style-name="封面-title" draw:layer="backgroundobjects" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.4cm" svg:y="0.837cm" presentation:class="title" presentation:placeholder="true">
     <draw:text-box/>
    </draw:frame>
@@ -910,118 +982,14 @@
    <draw:frame presentation:style-name="封面-outline1" draw:layer="backgroundobjects" svg:width="25.199cm" svg:height="12.178cm" svg:x="1.4cm" svg:y="4.914cm" presentation:class="outline" presentation:placeholder="true">
     <draw:text-box/>
    </draw:frame>
+   <draw:frame presentation:style-name="封面-outline1" draw:layer="backgroundobjects" svg:width="25.199cm" svg:height="12.178cm" svg:x="1.4cm" svg:y="4.914cm" presentation:class="outline" presentation:placeholder="true">
+    <draw:text-box/>
+   </draw:frame>
+   <draw:frame presentation:style-name="封面-outline1" draw:layer="backgroundobjects" svg:width="25.199cm" svg:height="12.178cm" svg:x="1.4cm" svg:y="4.914cm" presentation:class="outline" presentation:placeholder="true">
+    <draw:text-box/>
+   </draw:frame>
    <draw:frame draw:style-name="gr3" draw:text-style-name="P5" draw:layer="backgroundobjects" svg:width="8cm" svg:height="2.43cm" svg:x="20cm" svg:y="18.6cm">
-    <draw:image xlink:href="">
-     <office:binary-data>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9y
-      OiBBZG9iZSBJbGx1c3RyYXRvciAxNS4xLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBW
-      ZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9X
-      M0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8x
-      LjEvRFREL3N2ZzExLmR0ZCI+DQo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHht
-      bG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93
-      d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB3aWR0aD0iOTM1LjQz
-      NHB4IiBoZWlnaHQ9IjI4My40NjVweCIgdmlld0JveD0iLTg4LjcxNyAtNTYuMjMyIDkzNS40
-      MzQgMjgzLjQ2NSINCgkgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAtODguNzE3IC01Ni4yMzIg
-      OTM1LjQzNCAyODMuNDY1IiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxnPg0KCTxjaXJjbGUg
-      ZmlsbD0iI0ZGRkZGRiIgY3g9Ijc0NS4xOTkiIGN5PSI0NS4zMjYiIHI9IjQ1LjMyNiIvPg0K
-      CTxwYXRoIGZpbGw9IiNERDQ4MTQiIGQ9Ik03MTQuMzc5LDM5LjI3M2MtMy4zNDQsMC02LjA1
-      MywyLjcwOS02LjA1Myw2LjA1M2MwLDMuMzQyLDIuNzA5LDYuMDUxLDYuMDUzLDYuMDUxDQoJ
-      CWMzLjM0MywwLDYuMDUyLTIuNzA5LDYuMDUyLTYuMDUxQzcyMC40Myw0MS45ODIsNzE3Ljcy
-      MSwzOS4yNzMsNzE0LjM3OSwzOS4yNzN6IE03NTcuNTg2LDY2Ljc3Nw0KCQljLTIuODk1LDEu
-      NjcyLTMuODg3LDUuMzcxLTIuMjE1LDguMjY0YzEuNjcsMi44OTUsNS4zNjksMy44ODcsOC4y
-      NjUsMi4yMTVjMi44OTUtMS42NywzLjg4Ny01LjM2OSwyLjIxNS04LjI2NA0KCQlDNzY0LjE4
-      LDY2LjEsNzYwLjQ3OSw2NS4xMDcsNzU3LjU4Niw2Ni43Nzd6IE03MjcuNTI0LDQ1LjMyNmMw
-      LTUuOTgsMi45NzEtMTEuMjY0LDcuNTE2LTE0LjQ2M2wtNC40MjQtNy40MQ0KCQljLTUuMjk1
-      LDMuNTM5LTkuMjMzLDguOTQ3LTEwLjg3MSwxNS4yODFjMS45MSwxLjU1OSwzLjEzMywzLjkz
-      MiwzLjEzMyw2LjU5MmMwLDIuNjU4LTEuMjIzLDUuMDMxLTMuMTMzLDYuNTkNCgkJYzEuNjM2
-      LDYuMzM2LDUuNTc0LDExLjc0NCwxMC44NzEsMTUuMjgzbDQuNDI0LTcuNDEyQzczMC40OTQs
-      NTYuNTksNzI3LjUyNCw1MS4zMDcsNzI3LjUyNCw0NS4zMjZ6IE03NDUuMTk5LDI3LjY0OA0K
-      CQljOS4yMzQsMCwxNi44MTIsNy4wOCwxNy42MDUsMTYuMTA5bDguNjIzLTAuMTI3Yy0wLjQy
-      NS02LjY2Ni0zLjMzNy0xMi42NS03LjgxMi0xNy4wNTFjLTIuMzAxLDAuODY5LTQuOTU5LDAu
-      NzM2LTcuMjU2LTAuNTg4DQoJCWMtMi4zMDEtMS4zMjgtMy43NDQtMy41NjgtNC4xMzktNmMt
-      Mi4yMzYtMC42MTctNC41OS0wLjk1NS03LjAyMy0wLjk1NWMtNC4xODQsMC04LjEzOSwwLjk4
-      Mi0xMS42NSwyLjcyMWw0LjIwNSw3LjUzNQ0KCQlDNzQwLjAxNiwyOC4yNCw3NDIuNTM5LDI3
-      LjY0OCw3NDUuMTk5LDI3LjY0OHogTTc0NS4xOTksNjMuMDAyYy0yLjY2LDAtNS4xODQtMC41
-      OTItNy40NDUtMS42NDVsLTQuMjA0LDcuNTM1DQoJCWMzLjUxMiwxLjc0LDcuNDY3LDIuNzIz
-      LDExLjY0OSwyLjcyM2MyLjQzNSwwLDQuNzg3LTAuMzM4LDcuMDIzLTAuOTU3YzAuMzk1LTIu
-      NDMyLDEuODM4LTQuNjcsNC4xMzktNg0KCQljMi4yOTktMS4zMjYsNC45NTUtMS40NTcsNy4y
-      NTYtMC41ODhjNC40NzYtNC40LDcuMzg3LTEwLjM4NSw3LjgxMi0xNy4wNTFsLTguNjI1LTAu
-      MTI3DQoJCUM3NjIuMDEsNTUuOTI0LDc1NC40MzQsNjMuMDAyLDc0NS4xOTksNjMuMDAyeiBN
-      NzU3LjU4NCwyMy44NzFjMi44OTYsMS42NzIsNi41OTUsMC42ODIsOC4yNjUtMi4yMTMNCgkJ
-      YzEuNjcyLTIuODk1LDAuNjgyLTYuNTk0LTIuMjEzLTguMjY2Yy0yLjg5Ni0xLjY3LTYuNTk1
-      LTAuNjc4LTguMjY3LDIuMjE3Qzc1My42OTksMTguNTAyLDc1NC42OTIsMjIuMjAxLDc1Ny41
-      ODQsMjMuODcxeiIvPg0KCTxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0xMjMuODIzLDE2NC4y
-      NTdjLTQuNjA1LDEuMTUzLTEwLjY4NCwyLjM3NS0xOC4yMzcsMy42NjljLTcuNTU2LDEuMjk3
-      LTE2LjI5NiwxLjk0Mi0yNi4yMjYsMS45NDINCgkJYy04LjYzMywwLTE1LjktMS4yNjEtMjEu
-      Nzk5LTMuNzc0Yy01LjkwMi0yLjUxNy0xMC42NS02LjA4LTE0LjI0NS0xMC42ODZjLTMuNTk5
-      LTQuNjA0LTYuMTg4LTEwLjAzNy03Ljc3LTE2LjI5Nw0KCQljLTEuNTg1LTYuMjU4LTIuMzc0
-      LTEzLjE5Ny0yLjM3NC0yMC44MjZWNTUuMjYyaDIwLjA3MnY1OC43MDdjMCwxMy42NzIsMi4x
-      NTgsMjMuNDU1LDYuNDc3LDI5LjM1NA0KCQljNC4zMTYsNS45MDIsMTEuNTgxLDguODUxLDIx
-      Ljc5OSw4Ljg1MWMyLjE1OCwwLDQuMzg3LTAuMDcxLDYuNjkxLTAuMjE4YzIuMy0wLjE0MSw0
-      LjQ1OC0wLjMyMyw2LjQ3NS0wLjUzOQ0KCQljMi4wMTMtMC4yMTYsMy44NDgtMC40MzIsNS41
-      MDQtMC42NDZjMS42NTItMC4yMTUsMi44MzktMC40NjUsMy41NjItMC43NTRWNTUuMjYyaDIw
-      LjA3MkwxMjMuODIzLDE2NC4yNTdMMTIzLjgyMywxNjQuMjU3eiIvPg0KCTxwYXRoIGZpbGw9
-      IiNGRkZGRkYiIGQ9Ik0xNzIuODE3LDYwLjIyNWMyLjQ0NS0xLjU4MSw2LjE1MS0zLjIzNywx
-      MS4xMTUtNC45NjNjNC45NjQtMS43MjgsMTAuNjg0LTIuNTksMTcuMTU5LTIuNTkNCgkJYzgu
-      MDU3LDAsMTUuMjE2LDEuNDM4LDIxLjQ3Niw0LjMxNWM2LjI1OSwyLjg4LDExLjU0Nyw2Ljkw
-      NywxNS44NjMsMTIuMDg4YzQuMzE3LDUuMTgsNy41ODgsMTEuMzY4LDkuODIxLDE4LjU2Mg0K
-      CQljMi4yMjksNy4xOTYsMy4zNDYsMTUuMTA3LDMuMzQ2LDIzLjc0YzAsOS4wNjYtMS4zMzMs
-      MTcuMjM0LTMuOTkzLDI0LjVjLTIuNjY0LDcuMjY2LTYuNDQsMTMuNDE3LTExLjMzMiwxOC40
-      NTINCgkJYy00Ljg5NCw1LjAzOS0xMC43OTIsOC45MjMtMTcuNjk4LDExLjY1NWMtNi45MDYs
-      Mi43MzEtMTQuNjc3LDQuMTAxLTIzLjMxMSw0LjEwMWMtOS4zNTUsMC0xNy42MjctMC42NDYt
-      MjQuODIxLTEuOTQyDQoJCWMtNy4xOTYtMS4yOTUtMTMuMDk1LTIuNTg4LTE3LjY5OC0zLjg4
-      NVYzLjQ1OWwyMC4wNzMtMy40NTJWNjAuMjI1eiBNMTcyLjgxNywxNTAuMDE0YzIuMDE0LDAu
-      NTc1LDQuODU2LDEuMTE0LDguNTI2LDEuNjE2DQoJCWMzLjY2OSwwLjUwNyw4LjIzNCwwLjc1
-      NywxMy43MDUsMC43NTdjMTAuNzkyLDAsMTkuNDI1LTMuNTYyLDI1Ljg5OS0xMC42ODRjNi40
-      NzYtNy4xMjQsOS43MTMtMTcuMjMsOS43MTMtMzAuMzI3DQoJCWMwLTUuNzUxLTAuNTc2LTEx
-      LjE0Ny0xLjcyNy0xNi4xODdjLTEuMTUzLTUuMDM1LTMuMDIxLTkuMzg4LTUuNjExLTEzLjA1
-      OGMtMi41OS0zLjY3LTUuOTM2LTYuNTQ3LTEwLjAzNy04LjYzNQ0KCQljLTQuMTAxLTIuMDg0
-      LTkuMDMxLTMuMTI5LTE0Ljc4NC0zLjEyOWMtNS40NzEsMC0xMC41MDYsMC45MzgtMTUuMTA4
-      LDIuODA2Yy00LjYwNywxLjg3Mi04LjEzMSwzLjgxNS0xMC41NzYsNS44MjdWMTUwLjAxNA0K
-      CQlMMTcyLjgxNywxNTAuMDE0eiIvPg0KCTxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0zNjMu
-      NjEzLDE2NC4yNTdjLTQuNjA2LDEuMTUzLTEwLjY4NCwyLjM3NS0xOC4yMzcsMy42NjljLTcu
-      NTU2LDEuMjk3LTE2LjI5NiwxLjk0Mi0yNi4yMjUsMS45NDINCgkJYy04LjYzNCwwLTE1Ljkt
-      MS4yNjEtMjEuOC0zLjc3NGMtNS45MDItMi41MTctMTAuNjUtNi4wOC0xNC4yNDUtMTAuNjg2
-      Yy0zLjU5OS00LjYwNC02LjE4OC0xMC4wMzctNy43Ny0xNi4yOTcNCgkJYy0xLjU4NS02LjI2
-      LTIuMzc1LTEzLjE5OC0yLjM3NS0yMC44MjdWNTUuMjYyaDIwLjA3MnY1OC43MDdjMCwxMy42
-      NzIsMi4xNTgsMjMuNDU1LDYuNDc2LDI5LjM1NA0KCQljNC4zMTUsNS45MDIsMTEuNTgxLDgu
-      ODUxLDIxLjc5OSw4Ljg1MWMyLjE1OCwwLDQuMzg4LTAuMDcxLDYuNjkxLTAuMjE4YzIuMy0w
-      LjE0MSw0LjQ1OC0wLjMyMyw2LjQ3NS0wLjUzOQ0KCQljMi4wMTMtMC4yMTYsMy44NDgtMC40
-      MzIsNS41MDQtMC42NDZjMS42NTItMC4yMTUsMi44NC0wLjQ2NSwzLjU2Mi0wLjc1NFY1NS4y
-      NjJoMjAuMDcyTDM2My42MTMsMTY0LjI1N0wzNjMuNjEzLDE2NC4yNTd6Ii8+DQoJPHBhdGgg
-      ZmlsbD0iI0ZGRkZGRiIgZD0iTTM5Mi41MzEsNTguNDk5YzQuNjA0LTEuMTUxLDEwLjcxOC0y
-      LjM3NSwxOC4zNDgtMy42NzFjNy42MjUtMS4yOTQsMTYuNDAxLTEuOTQxLDI2LjMyOS0xLjk0
-      MQ0KCQljOC45MjIsMCwxNi4zMywxLjI2MSwyMi4yMzIsMy43NzZjNS44OTcsMi41MiwxMC42
-      MDksNi4wNDMsMTQuMTM3LDEwLjU3NmMzLjUyMyw0LjUzMyw2LjAwNiw5Ljk2Nyw3LjQ0Nywx
-      Ni4yOTYNCgkJYzEuNDM2LDYuMzMzLDIuMTU4LDEzLjMxMiwyLjE1OCwyMC45Mzh2NjMuMDIy
-      aC0yMC4wNzR2LTU4LjcwOGMwLTYuOTA1LTAuNDY5LTEyLjgwMy0xLjQwMi0xNy42OTcNCgkJ
-      Yy0wLjkzOC00Ljg5LTIuNDc5LTguODQ5LTQuNjQxLTExLjg3Yy0yLjE1OC0zLjAyMy01LjAz
-      Ny01LjIxNi04LjYzMy02LjU4NGMtMy42MDEtMS4zNjctOC4wNjItMi4wNTEtMTMuMzgxLTIu
-      MDUxDQoJCWMtMi4xNiwwLTQuMzk0LDAuMDc0LTYuNjkxLDAuMjE2Yy0yLjMwNCwwLjE0NS00
-      LjQ5OSwwLjMyNS02LjU4MywwLjU0MWMtMi4wODksMC4yMTUtMy45NiwwLjQ2OS01LjYxLDAu
-      NzU1DQoJCWMtMS42NTYsMC4yOS0yLjg0NSwwLjUwNi0zLjU2MiwwLjY0NnY5NC43NTFoLTIw
-      LjA3M1Y1OC40OTlMMzkyLjUzMSw1OC40OTl6Ii8+DQoJPHBhdGggZmlsbD0iI0ZGRkZGRiIg
-      ZD0iTTUyOS41ODUsNTUuMjYyaDQyLjUyMXYxNi44MzVoLTQyLjUyMXY1MS43OTljMCw1LjYx
-      LDAuNDMxLDEwLjI1MiwxLjI5NSwxMy45Mg0KCQljMC44NjMsMy42NzIsMi4xNTgsNi41NSwz
-      Ljg4Niw4LjYzNWMxLjcyNywyLjA4OCwzLjg4NSwzLjU2Miw2LjQ3NSw0LjQyNXM1LjYxMSwx
-      LjI5Niw5LjA2NCwxLjI5Ng0KCQljNi4xODYsMCwxMS4wOC0wLjY4MiwxNC42NzgtMi4wNTFj
-      My41OTQtMS4zNjYsNi4wNDMtMi4zMzcsNy4zMzgtMi45MTNsNC4zMTYsMTYuNDAzYy0yLjAx
-      NywxLjAwOC01LjU3OCwyLjMwNC0xMC42ODUsMy44ODQNCgkJYy01LjEwOCwxLjU4Mi0xMC44
-      OTcsMi4zNzQtMTcuMzc1LDIuMzc0Yy03LjYyNywwLTEzLjkyLTAuOTcxLTE4Ljg4NS0yLjkx
-      M3MtOC45NTctNC44NTYtMTEuOTc5LTguNzQxDQoJCWMtMy4wMjEtMy44ODYtNS4xNDYtOC42
-      NjgtNi4zNjYtMTQuMzU0Yy0xLjIyNi01LjY4Mi0xLjgzNi0xMi4yNjQtMS44MzYtMTkuNzQ4
-      VjIzLjk2NWwyMC4wNzMtMy40NTNMNTI5LjU4NSw1NS4yNjINCgkJTDUyOS41ODUsNTUuMjYy
-      eiIvPg0KCTxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik02ODEuMzE2LDE2NC4yNTdjLTQuNjA3
-      LDEuMTUzLTEwLjY4NiwyLjM3NS0xOC4yMzgsMy42NjljLTcuNTU1LDEuMjk3LTE2LjI5NSwx
-      Ljk0Mi0yNi4yMjUsMS45NDINCgkJYy04LjYzMywwLTE1LjktMS4yNjEtMjEuNzk5LTMuNzc0
-      Yy01LjkwMi0yLjUxNy0xMC42NS02LjA4LTE0LjI0Ni0xMC42ODZjLTMuNTk5LTQuNjA0LTYu
-      MTg4LTEwLjAzNy03Ljc3MS0xNi4yOTcNCgkJYy0xLjU4Ni02LjI2LTIuMzc1LTEzLjE5OC0y
-      LjM3NS0yMC44MjdWNTUuMjYyaDIwLjA3NHY1OC43MDdjMCwxMy42NzIsMi4xNTgsMjMuNDU1
-      LDYuNDc1LDI5LjM1NA0KCQljNC4zMTYsNS45MDIsMTEuNTgsOC44NTEsMjEuOCw4Ljg1MWMy
-      LjE1NywwLDQuMzg3LTAuMDcxLDYuNjktMC4yMThjMi4yOTktMC4xNDEsNC40NTktMC4zMjMs
-      Ni40NzYtMC41MzkNCgkJYzIuMDE0LTAuMjE2LDMuODQ4LTAuNDMyLDUuNTA0LTAuNjQ2YzEu
-      NjUxLTAuMjE1LDIuODQtMC40NjUsMy41NjEtMC43NTRWNTUuMjYyaDIwLjA3NFYxNjQuMjU3
-      TDY4MS4zMTYsMTY0LjI1N3oiLz4NCjwvZz4NCjwvc3ZnPg0K
-     </office:binary-data>
+    <draw:image xlink:href="./使用到的資源/圖片/Ubuntu%20logo%20set%20SVG/ubuntu_white-orange(cof)_hex.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
      <text:p/>
     </draw:image>
    </draw:frame>
@@ -1058,24 +1026,30 @@
     <draw:frame presentation:style-name="封面-notes" draw:layer="backgroundobjects" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
      <draw:text-box/>
     </draw:frame>
+    <draw:frame presentation:style-name="封面-notes" draw:layer="backgroundobjects" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
+     <draw:text-box/>
+    </draw:frame>
+    <draw:frame presentation:style-name="封面-notes" draw:layer="backgroundobjects" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
+     <draw:text-box/>
+    </draw:frame>
     <draw:frame presentation:style-name="pr1" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.112cm" svg:height="1.484cm" svg:x="0cm" svg:y="0cm" presentation:class="header">
      <draw:text-box>
-      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><presentation:header/></text:p>
+      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><presentation:header/></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr1" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.112cm" svg:height="1.484cm" svg:x="11.887cm" svg:y="0cm" presentation:class="date-time">
      <draw:text-box>
-      <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
+      <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr2" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.112cm" svg:height="1.484cm" svg:x="0cm" svg:y="28.215cm" presentation:class="footer">
      <draw:text-box>
-      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
+      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr2" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.112cm" svg:height="1.484cm" svg:x="11.887cm" svg:y="28.215cm" presentation:class="page-number">
      <draw:text-box>
-      <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:page-number>&lt;編號&gt;</text:page-number></text:p>
+      <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:page-number>&lt;編號&gt;</text:page-number></text:p>
      </draw:text-box>
     </draw:frame>
    </presentation:notes>
@@ -1088,19 +1062,14 @@
    <draw:frame presentation:style-name="預設-outline1" draw:layer="backgroundobjects" svg:width="25.199cm" svg:height="12.178cm" svg:x="1.4cm" svg:y="4.914cm" presentation:class="outline" presentation:placeholder="true">
     <draw:text-box/>
    </draw:frame>
-   <draw:frame presentation:style-name="pr3" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="6.523cm" svg:height="1.448cm" svg:x="1.4cm" svg:y="19.131cm" presentation:class="date-time">
-    <draw:text-box>
-     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
-    </draw:text-box>
-   </draw:frame>
    <draw:frame presentation:style-name="pr3" draw:text-style-name="P7" draw:layer="backgroundobjects" svg:width="8.875cm" svg:height="1.448cm" svg:x="9.576cm" svg:y="19.131cm" presentation:class="footer">
     <draw:text-box>
-     <text:p text:style-name="P6"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
+     <text:p text:style-name="P6"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame presentation:style-name="pr3" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="6.523cm" svg:height="1.448cm" svg:x="20.075cm" svg:y="19.131cm" presentation:class="page-number">
     <draw:text-box>
-     <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:page-number>&lt;編號&gt;</text:page-number></text:p>
+     <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:page-number>&lt;編號&gt;</text:page-number></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:custom-shape presentation:style-name="pr4" draw:text-style-name="P8" draw:layer="backgroundobjects" svg:width="28cm" svg:height="2.6cm" svg:x="0cm" svg:y="18.4cm">
@@ -1223,35 +1192,36 @@
     </draw:image>
    </draw:frame>
    <presentation:notes style:page-layout-name="PM0">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:page-thumbnail presentation:style-name="預設-title" draw:layer="backgroundobjects" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.075cm" svg:y="2.257cm" presentation:class="page"/>
     <draw:frame presentation:style-name="預設-notes" draw:layer="backgroundobjects" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
      <draw:text-box/>
     </draw:frame>
     <draw:frame presentation:style-name="pr5" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.112cm" svg:height="1.484cm" svg:x="0cm" svg:y="0cm" presentation:class="header">
      <draw:text-box>
-      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><presentation:header/></text:p>
+      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><presentation:header/></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr5" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.112cm" svg:height="1.484cm" svg:x="11.887cm" svg:y="0cm" presentation:class="date-time">
      <draw:text-box>
-      <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
+      <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr6" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.112cm" svg:height="1.484cm" svg:x="0cm" svg:y="28.215cm" presentation:class="footer">
      <draw:text-box>
-      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
+      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr6" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.112cm" svg:height="1.484cm" svg:x="11.887cm" svg:y="28.215cm" presentation:class="page-number">
      <draw:text-box>
-      <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:page-number>&lt;編號&gt;</text:page-number></text:p>
+      <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;編號&gt;</text:page-number></text:span><text:page-number>&lt;編號&gt;</text:page-number></text:p>
      </draw:text-box>
     </draw:frame>
    </presentation:notes>
   </style:master-page>
  </office:master-styles>
  <office:body>
-  <office:presentation><presentation:footer-decl presentation:name="ftr1">Ubuntu 台灣社群 © 2015</presentation:footer-decl><presentation:date-time-decl presentation:name="dtd1" presentation:source="current-date" style:data-style-name="D4"/>
+  <office:presentation><presentation:footer-decl presentation:name="ftr1">Ubuntu 台灣社群 © 2015</presentation:footer-decl><presentation:date-time-decl presentation:name="dtd1" presentation:source="current-date" style:data-style-name="D3"/>
    <draw:page draw:name="封面頁" draw:style-name="dp4" draw:master-page-name="封面" presentation:presentation-page-layout-name="AL1T0" presentation:use-footer-name="ftr1" presentation:use-date-time-name="dtd1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr7" draw:text-style-name="P9" draw:layer="layout" svg:width="25.199cm" svg:height="10.963cm" svg:x="1.4cm" svg:y="0.837cm" presentation:class="title" presentation:user-transformed="true">
@@ -1264,23 +1234,543 @@
       <text:p><text:author-name text:fixed="false">Ubuntu 台灣社群 </text:author-name></text:p>
      </draw:text-box>
     </draw:frame>
+    <draw:frame draw:style-name="gr4" draw:text-style-name="P11" draw:layer="layout" svg:width="7.427cm" svg:height="7.427cm" svg:x="20cm" svg:y="6.8cm">
+     <draw:image xlink:href="./使用到的資源/圖片/Ubuntu%20Design%20Pictograms/pictogram-community-orange-hex.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
+      <text:p/>
+     </draw:image>
+    </draw:frame>
     <presentation:notes draw:style-name="dp3">
-     <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="1" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="1" presentation:class="page"/>
      <draw:frame presentation:style-name="pr9" draw:text-style-name="P10" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page2" draw:style-name="dp4" draw:master-page-name="預設" presentation:presentation-page-layout-name="AL2T1" presentation:use-footer-name="ftr1" presentation:use-date-time-name="dtd1">
+   <draw:page draw:name="本作品的智慧財產授權條款" draw:style-name="dp4" draw:master-page-name="預設" presentation:presentation-page-layout-name="AL2T1" presentation:use-footer-name="ftr1" presentation:use-date-time-name="dtd1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:frame presentation:style-name="pr10" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.4cm" svg:y="0.837cm" presentation:class="title" presentation:placeholder="true" presentation:user-transformed="true">
-     <draw:text-box/>
+    <draw:frame presentation:style-name="pr10" draw:layer="layout" svg:width="25.199cm" svg:height="4.052cm" svg:x="1.4cm" svg:y="0.564cm" presentation:class="title" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:p>本作品的智慧財產授權條款<text:line-break/>LICENSE</text:p>
+     </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr11" draw:layer="layout" svg:width="25.199cm" svg:height="12.178cm" svg:x="1.4cm" svg:y="4.914cm" presentation:class="outline" presentation:placeholder="true" presentation:user-transformed="true">
-     <draw:text-box/>
+    <draw:frame presentation:style-name="pr11" draw:layer="layout" svg:width="25.199cm" svg:height="12.686cm" svg:x="1.4cm" svg:y="4.914cm" presentation:class="outline" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:list text:style-name="L3">
+       <text:list-item>
+        <text:p>本範本作品採用「<text:span text:style-name="T2">有例外條例</text:span><text:span text:style-name="T3">之</text:span>Creative Commons 姓名標示-相同方式分享(BY-SA) 第4.0版或其任意更近期版本」授權條款釋出供大眾於規範內自由使用</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p>請以下列稱謂來滿足本作品採用之授權條款的姓名標示要求：「Ubuntu 台灣社群簡報範本」</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p>本範本作品授權條款規定之<text:span text:style-name="T2">例外條例</text:span>如下：</text:p>
+        <text:list>
+         <text:list-item>
+          <text:p>若您使用本作品的方式為<text:span text:style-name="T2">製作文件範本以外</text:span>的用途（如使用本範本撰寫含有價值內容的完整文件）時得以免除「相同方式分享(SA)」之限制，惟仍需滿足「姓名標示(BY)」之要求於衍伸作品中標註範本作者。</text:p>
+         </text:list-item>
+        </text:list>
+       </text:list-item>
+      </text:list>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr4" draw:text-style-name="P11" draw:layer="layout" svg:width="4.027cm" svg:height="4.027cm" svg:x="23.373cm" svg:y="0.6cm">
+     <draw:image xlink:href="./使用到的資源/圖片/Ubuntu%20Design%20Pictograms/pictogram-guidelines-orange-hex.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
+      <text:p/>
+     </draw:image>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
-     <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="2" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="2" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr12" draw:text-style-name="P10" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
+      <draw:text-box/>
+     </draw:frame>
+    </presentation:notes>
+   </draw:page>
+   <draw:page draw:name="本作品的智慧財產授權條款（Ubuntu 商標）" draw:style-name="dp4" draw:master-page-name="預設" presentation:presentation-page-layout-name="AL2T1" presentation:use-footer-name="ftr1" presentation:use-date-time-name="dtd1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <draw:frame presentation:style-name="pr10" draw:layer="layout" svg:width="25.199cm" svg:height="4.052cm" svg:x="1.4cm" svg:y="0.564cm" presentation:class="title" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:p>本作品的智慧財產授權條款<text:line-break/>LICENSE</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame presentation:style-name="pr13" draw:layer="layout" svg:width="25.199cm" svg:height="7.486cm" svg:x="1.4cm" svg:y="4.914cm" presentation:class="outline" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:list text:style-name="L3">
+       <text:list-item>
+        <text:p>本作品使用之「ubuntu」商標為英國 Canonical 有限公司的註冊商標與智慧財產，不在本作品之授權範圍內。請依據 Canonical 有限公司的智慧財產授權政策使用之。<text:line-break/><text:a xlink:href="http://www.ubuntu.com/legal/terms-and-policies/intellectual-property-policy" xlink:type="simple">http://www.ubuntu.com/legal/terms-and-policies/intellectual-property-policy</text:a></text:p>
+       </text:list-item>
+      </text:list>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr4" draw:text-style-name="P11" draw:layer="layout" svg:width="16.956cm" svg:height="5.15cm" svg:x="5.522cm" svg:y="13.45cm">
+     <draw:image xlink:href="./使用到的資源/圖片/Ubuntu%20logo%20set%20SVG/ubuntu_black-orange_hex.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
+      <text:p/>
+     </draw:image>
+    </draw:frame>
+    <draw:frame draw:style-name="gr4" draw:text-style-name="P11" draw:layer="layout" svg:width="4.027cm" svg:height="4.027cm" svg:x="23.374cm" svg:y="0.601cm">
+     <draw:image xlink:href="./使用到的資源/圖片/Ubuntu%20Design%20Pictograms/pictogram-guidelines-orange-hex.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
+      <text:p/>
+     </draw:image>
+    </draw:frame>
+    <presentation:notes draw:style-name="dp3">
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="3" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr12" draw:text-style-name="P10" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
+      <draw:text-box/>
+     </draw:frame>
+    </presentation:notes>
+   </draw:page>
+   <draw:page draw:name="設計理念" draw:style-name="dp4" draw:master-page-name="預設" presentation:presentation-page-layout-name="AL2T1" presentation:use-footer-name="ftr1" presentation:use-date-time-name="dtd1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <draw:frame presentation:style-name="pr14" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.4cm" svg:y="0.837cm" presentation:class="title" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:p>設計理念</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame presentation:style-name="pr13" draw:layer="layout" svg:width="25.199cm" svg:height="12.178cm" svg:x="1.4cm" svg:y="4.914cm" presentation:class="outline">
+     <draw:text-box>
+      <text:list text:style-name="L3">
+       <text:list-item>
+        <text:p>本作品係為了Ubuntu台灣社群成員制作宣傳文宣之需求所做之文件範本</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p>本範本應儘可能地遵循Ubuntu的設計原則，以提供與官方設計相似的閱覽體驗<text:line-break/><text:a xlink:href="http://design.ubuntu.com/" xlink:type="simple">http://design.ubuntu.com</text:a></text:p>
+       </text:list-item>
+      </text:list>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr4" draw:text-style-name="P11" draw:layer="layout" svg:width="4.027cm" svg:height="4.027cm" svg:x="17.173cm" svg:y="0.537cm">
+     <draw:image xlink:href="">
+      <office:binary-data>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9y
+       OiBBZG9iZSBJbGx1c3RyYXRvciAxNS4xLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBW
+       ZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9X
+       M0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8x
+       LjEvRFREL3N2ZzExLmR0ZCI+DQo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHht
+       bG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93
+       d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB3aWR0aD0iMTQxLjcz
+       MnB4IiBoZWlnaHQ9IjE0MS43MzJweCIgdmlld0JveD0iNzAuODY2IDcwLjg2NiAxNDEuNzMy
+       IDE0MS43MzIiDQoJIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgNzAuODY2IDcwLjg2NiAxNDEu
+       NzMyIDE0MS43MzIiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPHBhdGggZmlsbD0iI0RENDgx
+       NCIgZD0iTTE4MS44MTgsMTAxLjY0NWMtMTAuNzA2LTEwLjcwOC0yNC45NDItMTYuNjA1LTQw
+       LjA4NC0xNi42MDVjLTE1LjE0NCwwLTI5LjM4LDUuODk4LTQwLjA4OSwxNi42MDcNCgljLTEw
+       LjcwOCwxMC43MDgtMTYuNjA1LDI0Ljk0NS0xNi42MDYsNDAuMDg3YzAsMTUuMTQ0LDUuODk2
+       LDI5LjM4LDE2LjYwNCw0MC4wODZjMTAuNzA4LDEwLjcwOSwyNC45NDUsMTYuNjA0LDQwLjA4
+       OCwxNi42MDQNCglzMjkuMzgtNS44OTYsNDAuMDg3LTE2LjYwNGMxMC43MDktMTAuNzA3LDE2
+       LjYwNS0yNC45NDMsMTYuNjA1LTQwLjA4N0MxOTguNDI0LDEyNi41OSwxOTIuNTI3LDExMi4z
+       NTMsMTgxLjgxOCwxMDEuNjQ1eg0KCSBNOTUuNDEyLDE1Ny45OGwzLjY5My0xMy43ODNsMTAu
+       MDkxLDEwLjA5TDk1LjQxMiwxNTcuOTh6IE0xMTEuNjUzLDE1MS43NTJsLTEwLjAyMS0xMC4w
+       MjFsNDIuNjQ2LTQyLjY0NmwxMC4wMjEsMTAuMDIxDQoJTDExMS42NTMsMTUxLjc1MnogTTE3
+       Ni44NTQsMTYxLjc3N2wtMy44MTEtMy44MTFsNC45NjktNC45N2wtMi41MDctMi41MDVsLTQu
+       OTY3LDQuOTdsLTIuNTA2LTIuNTA2bDcuNTM0LTcuNTMzbC0yLjUwOC0yLjUwNw0KCWwtNy41
+       MzMsNy41MzRsLTIuNTA0LTIuNTA3bDQuOTY4LTQuOTY1bC0yLjUwNS0yLjUwNmwtNC45Njks
+       NC45NjdsLTIuNTA2LTIuNTA4bDcuNTMzLTcuNTMxbC0yLjUwNC0yLjUwNmwtNy41MzUsNy41
+       MzNMMTUzLDEzNy45MjQNCglsNC45NjgtNC45NjhsLTIuNTA2LTIuNTA2bC00Ljk2OSw0Ljk2
+       OGwtMi41MDQtMi41MDRsNy41MzQtNy41MzZsLTIuNTA2LTIuNTA1bC03LjUzNSw3LjUzNWwt
+       My43MDgtMy43MDdsMTUuMDMyLTE1LjAzNA0KCWwzNS4wNzcsMzUuMDc3TDE3Ni44NTQsMTYx
+       Ljc3N3oiLz4NCjwvc3ZnPg0K
+      </office:binary-data>
+      <text:p/>
+     </draw:image>
+    </draw:frame>
+    <presentation:notes draw:style-name="dp3">
+     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="4" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr12" draw:text-style-name="P10" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
+      <draw:text-box/>
+     </draw:frame>
+    </presentation:notes>
+   </draw:page>
+   <draw:page draw:name="使用說明（關於字型）" draw:style-name="dp4" draw:master-page-name="預設" presentation:presentation-page-layout-name="AL2T1" presentation:use-footer-name="ftr1" presentation:use-date-time-name="dtd1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <draw:frame presentation:style-name="pr14" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.4cm" svg:y="0.837cm" presentation:class="title" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:p>使用說明</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame presentation:style-name="pr13" draw:layer="layout" svg:width="25.199cm" svg:height="12.178cm" svg:x="1.4cm" svg:y="4.914cm" presentation:class="outline" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:list text:style-name="L3">
+       <text:list-item>
+        <text:p>本作品中採用的預設字型</text:p>
+        <text:list>
+         <text:list-item>
+          <text:p>Adobe 思源黑體（台灣地區規範字形）<text:line-break/><text:a xlink:href="https://github.com/adobe-fonts/source-han-sans" xlink:type="simple">https://github.com/adobe-fonts/source-han-sans</text:a></text:p>
+          <text:list>
+           <text:list-item>
+            <text:p>用於標題與內文之中文文字</text:p>
+           </text:list-item>
+          </text:list>
+         </text:list-item>
+         <text:list-item>
+          <text:p>Ubuntu 字型家族<text:line-break/><text:a xlink:href="http://font.ubuntu.com/" xlink:type="simple">http://font.ubuntu.com/</text:a></text:p>
+          <text:list>
+           <text:list-item>
+            <text:p>用於標題與內文之外文文字</text:p>
+           </text:list-item>
+          </text:list>
+         </text:list-item>
+        </text:list>
+       </text:list-item>
+       <text:list-item>
+        <text:p>預設字型設定於「樣式與格式」設定介面中，可依喜好自行調整。</text:p>
+       </text:list-item>
+      </text:list>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr4" draw:text-style-name="P11" draw:layer="layout" svg:width="4.027cm" svg:height="4.027cm" svg:x="17.173cm" svg:y="0.6cm">
+     <draw:image xlink:href="./使用到的資源/圖片/Ubuntu%20Design%20Pictograms/pictogram-help-orange-hex.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
+      <text:p/>
+     </draw:image>
+    </draw:frame>
+    <presentation:notes draw:style-name="dp3">
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="5" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr12" draw:text-style-name="P10" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
+      <draw:text-box/>
+     </draw:frame>
+    </presentation:notes>
+   </draw:page>
+   <draw:page draw:name="使用說明（關於母片設計）" draw:style-name="dp4" draw:master-page-name="預設" presentation:presentation-page-layout-name="AL2T1" presentation:use-footer-name="ftr1" presentation:use-date-time-name="dtd1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <draw:frame presentation:style-name="pr14" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.4cm" svg:y="0.837cm" presentation:class="title" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:p>使用說明</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame presentation:style-name="pr13" draw:layer="layout" svg:width="19.6cm" svg:height="12.178cm" svg:x="1.4cm" svg:y="4.914cm" presentation:class="outline" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:list text:style-name="L3">
+       <text:list-item>
+        <text:p>本作品提供下列兩種投影片母片設計</text:p>
+        <text:list>
+         <text:list-item>
+          <text:p>封面</text:p>
+          <text:list>
+           <text:list-item>
+            <text:p>顧名思義，用於簡報封面（簡報標題、副標題）</text:p>
+           </text:list-item>
+           <text:list-item>
+            <text:p>橘底白字白項目符號，右下角有 Ubuntu 商標</text:p>
+           </text:list-item>
+          </text:list>
+         </text:list-item>
+         <text:list-item>
+          <text:p>預設</text:p>
+          <text:list>
+           <text:list-item>
+            <text:p>用於簡報內容（標題、內容）</text:p>
+           </text:list-item>
+           <text:list-item>
+            <text:p>白底黑字橘項目符號，右下角有 Ubuntu 商標</text:p>
+           </text:list-item>
+          </text:list>
+         </text:list-item>
+        </text:list>
+       </text:list-item>
+       <text:list-item>
+        <text:p>要改變投影片母片設計於文件基金會LibreOffice 中可於選單中搜尋「檢視→母片→投影片母片」</text:p>
+       </text:list-item>
+      </text:list>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr3" draw:text-style-name="P5" draw:layer="layout" svg:width="5.556cm" svg:height="4.237cm" svg:x="19.644cm" svg:y="5.863cm">
+     <draw:image xlink:href="./使用到的資源/圖片/投影片母片設計/封面01.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
+      <text:p/>
+     </draw:image>
+    </draw:frame>
+    <draw:frame draw:style-name="gr3" draw:text-style-name="P5" draw:layer="layout" svg:width="5.56cm" svg:height="4.24cm" svg:x="19.644cm" svg:y="10.2cm">
+     <draw:image xlink:href="./使用到的資源/圖片/投影片母片設計/預設01.png" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
+      <text:p/>
+     </draw:image>
+    </draw:frame>
+    <draw:frame draw:style-name="gr4" draw:text-style-name="P11" draw:layer="layout" svg:width="4.027cm" svg:height="4.027cm" svg:x="17.174cm" svg:y="0.601cm">
+     <draw:image xlink:href="./使用到的資源/圖片/Ubuntu%20Design%20Pictograms/pictogram-help-orange-hex.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
+      <text:p/>
+     </draw:image>
+    </draw:frame>
+    <presentation:notes draw:style-name="dp3">
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="6" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr12" draw:text-style-name="P10" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
+      <draw:text-box/>
+     </draw:frame>
+    </presentation:notes>
+   </draw:page>
+   <draw:page draw:name="相關資源" draw:style-name="dp4" draw:master-page-name="預設" presentation:presentation-page-layout-name="AL2T1" presentation:use-footer-name="ftr1" presentation:use-date-time-name="dtd1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <draw:frame presentation:style-name="pr14" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.4cm" svg:y="0.837cm" presentation:class="title">
+     <draw:text-box>
+      <text:p>相關資源<text:tab/></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame presentation:style-name="pr13" draw:layer="layout" svg:width="25.199cm" svg:height="12.178cm" svg:x="1.4cm" svg:y="4.914cm" presentation:class="outline">
+     <draw:text-box>
+      <text:list text:style-name="L3">
+       <text:list-item>
+        <text:p>Ubuntu Design<text:line-break/><text:a xlink:href="http://design.ubuntu.com/" xlink:type="simple">http://design.ubuntu.com</text:a></text:p>
+        <text:list>
+         <text:list-item>
+          <text:p>Pictograms<text:line-break/><text:a xlink:href="http://design.ubuntu.com/brand/pictograms" xlink:type="simple">http://design.ubuntu.com/brand/pictograms</text:a></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p>Colour palette<text:line-break/><text:a xlink:href="http://design.ubuntu.com/brand/colour-palette" xlink:type="simple">http://design.ubuntu.com/brand/colour-palette</text:a></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p>Dot patterns<text:line-break/><text:a xlink:href="http://design.ubuntu.com/brand/dot-patterns" xlink:type="simple">http://design.ubuntu.com/brand/dot-patterns</text:a></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p>文字風格<text:line-break/><text:a xlink:href="http://design.ubuntu.com/brand/text" xlink:type="simple">http://design.ubuntu.com/brand/text</text:a></text:p>
+         </text:list-item>
+        </text:list>
+       </text:list-item>
+      </text:list>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr4" draw:text-style-name="P11" draw:layer="layout" svg:width="4.027cm" svg:height="4.027cm" svg:x="17cm" svg:y="0.637cm">
+     <draw:image xlink:href="">
+      <office:binary-data>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9y
+       OiBBZG9iZSBJbGx1c3RyYXRvciAxNS4xLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBW
+       ZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9X
+       M0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8x
+       LjEvRFREL3N2ZzExLmR0ZCI+DQo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHht
+       bG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93
+       d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB3aWR0aD0iMTQxLjcz
+       MnB4IiBoZWlnaHQ9IjE0MS43MzJweCIgdmlld0JveD0iNzAuODY2IDcwLjg2NiAxNDEuNzMy
+       IDE0MS43MzIiDQoJIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgNzAuODY2IDcwLjg2NiAxNDEu
+       NzMyIDE0MS43MzIiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPGc+DQoJPHBhdGggZmlsbD0i
+       I0RENDgxNCIgZD0iTTExNi4xNjEsMTQxLjE4NWMwLDEuOTU4LTEuNTg3LDMuNTQzLTMuNTQz
+       LDMuNTQzYy0xLjk1OSwwLTMuNTQ1LTEuNTg2LTMuNTQ1LTMuNTQzDQoJCWMwLTEuOTU3LDEu
+       NTg2LTMuNTQzLDMuNTQ1LTMuNTQzQzExNC41NzQsMTM3LjY0MiwxMTYuMTYxLDEzOS4yMjgs
+       MTE2LjE2MSwxNDEuMTg1Ii8+DQoJPHBhdGggZmlsbD0iI0RENDgxNCIgZD0iTTEwOS44NzUs
+       OTQuODMxdjE4LjY2MnYtMC4wMDFjLTguMTExLDEuNjIyLTE0LjIyMyw4Ljc4NS0xNC4yMjMs
+       MTcuMzc2bC0wLjAzMywyMS41DQoJCWMwLDkuNzg0LDcuOTMsMTcuNzEyLDE3LjcxMywxNy43
+       MTJzMTcuNzE5LTcuOTI4LDE3LjcxOS0xNy43MTJsMC4wMzMtMjEuNWMwLTguNTU0LTYuMDYy
+       LTE1LjY5MS0xNC4xMjEtMTcuMzUzdjAuMDAxVjkwLjczOQ0KCQloLTAuMDM1YzcuNDk0LTMu
+       NjUxLDE1LjkwOC01LjY5OSwyNC44MDQtNS42OTljMjAuOTcyLDAsMzkuMjg0LDExLjM4OCw0
+       OS4wOTIsMjguMzE3bC0wLjA1NSwwLjAyM2gtNDcuMjY3DQoJCWMtMi45MzcsMC01LjMxNSwy
+       LjM4LTUuMzE1LDUuMzE1czIuMzc4LDUuMzE1LDUuMzE1LDUuMzE1aDI1LjcwOGwtMC4wMDct
+       MC4wMDRjLTEuMTc1LDEuNDY0LTIuMjA4LDMuMDQ4LTMuMDc2LDQuNzN2MC4wMDNoLTIyLjYy
+       NQ0KCQljLTIuOTM3LDAtNS4zMTUsMi4zOC01LjMxNSw1LjMxNXMyLjM3OCw1LjMxMyw1LjMx
+       NSw1LjMxM2gxOS41NjhoLTAuMDAxYy0wLjA2MywwLjc3Ni0wLjA5OCwxLjU2LTAuMDk4LDIu
+       MzUyDQoJCWMwLDAuNzk5LDAuMDMzLDEuNTkyLDAuMSwyLjM3N2gtMTkuNTY5Yy0yLjkzNyww
+       LTUuMzE1LDIuMzgxLTUuMzE1LDUuMzE0YzAsMi45MzgsMi4zNzgsNS4zMTQsNS4zMTUsNS4z
+       MTRoMjIuNjM4djAuMDA0DQoJCWMwLjg3MiwxLjY4MSwxLjkwNywzLjI2NCwzLjA4NCw0Ljcy
+       NnYtMC4wMDFoLTI1LjcyMmMtMi45MzcsMC01LjMxNSwyLjM4LTUuMzE1LDUuMzE0YzAsMi45
+       MzYsMi4zNzgsNS4zMTQsNS4zMTUsNS4zMTRIMTkwLjgNCgkJbDAuMDI2LDAuMDE4Yy05Ljgw
+       NywxNi45MzQtMjguMTIsMjguMzI0LTQ5LjA5NSwyOC4zMjRjLTMxLjMxLDAtNTYuNjkyLTI1
+       LjM4My01Ni42OTItNTYuNjk0YzAtMTkuNDk5LDkuODQ1LTM2LjY5OCwyNC44MzMtNDYuOTAx
+       DQoJCWgwLjAwM1Y5NC44MzF6Ii8+DQo8L2c+DQo8L3N2Zz4NCg==
+      </office:binary-data>
+      <text:p/>
+     </draw:image>
+    </draw:frame>
+    <presentation:notes draw:style-name="dp3">
+     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="7" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr12" draw:text-style-name="P10" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
+      <draw:text-box/>
+     </draw:frame>
+    </presentation:notes>
+   </draw:page>
+   <draw:page draw:name="相關連結" draw:style-name="dp4" draw:master-page-name="預設" presentation:presentation-page-layout-name="AL2T1" presentation:use-footer-name="ftr1" presentation:use-date-time-name="dtd1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <draw:frame presentation:style-name="pr14" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.4cm" svg:y="0.837cm" presentation:class="title" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:p>相關連結</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame presentation:style-name="pr13" draw:layer="layout" svg:width="19.2cm" svg:height="13.086cm" svg:x="1.4cm" svg:y="4.914cm" presentation:class="outline" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:list text:style-name="L3">
+       <text:list-item>
+        <text:p>專案網站<text:line-break/><text:a xlink:href="https://github.com/Lin-Buo-Ren/What-Is-Ubuntu" xlink:type="simple">https://github.com/Lin-Buo-Ren/What-Is-Ubuntu</text:a></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p>議題追蹤系統<text:line-break/><text:a xlink:href="https://github.com/Lin-Buo-Ren/What-Is-Ubuntu/issues" xlink:type="simple">https://github.com/Lin-Buo-Ren/What-Is-Ubuntu/issues</text:a></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p>軟體釋出頁面<text:line-break/><text:a xlink:href="https://github.com/Lin-Buo-Ren/What-Is-Ubuntu/releases" xlink:type="simple">https://github.com/Lin-Buo-Ren/What-Is-Ubuntu/releases</text:a></text:p>
+       </text:list-item>
+      </text:list>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr4" draw:text-style-name="P11" draw:layer="layout" svg:width="4.027cm" svg:height="4.027cm" svg:x="17.4cm" svg:y="0.773cm">
+     <draw:image xlink:href="">
+      <office:binary-data>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9y
+       OiBBZG9iZSBJbGx1c3RyYXRvciAxNS4xLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBW
+       ZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9X
+       M0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8x
+       LjEvRFREL3N2ZzExLmR0ZCI+DQo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHht
+       bG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93
+       d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB3aWR0aD0iMTQxLjcz
+       MnB4IiBoZWlnaHQ9IjE0MS43MzJweCIgdmlld0JveD0iNzAuODY2IDcwLjg2NiAxNDEuNzMy
+       IDE0MS43MzIiDQoJIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgNzAuODY2IDcwLjg2NiAxNDEu
+       NzMyIDE0MS43MzIiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPHBhdGggZmlsbD0iI0RENDgx
+       NCIgZD0iTTE0Ni43MjUsMTQ2Ljc3N2MtMi43NywyLjc2OS03LjI1OCwyLjc2Ni0xMC4wMjIt
+       MC4wMDJjLTIuNzY3LTIuNzY3LTIuNzY3LTcuMjUzLDAtMTAuMDIxDQoJYzIuNzY5LTIuNzY4
+       LDcuMjUzLTIuNzY5LDEwLjAyMS0wLjAwMkMxNDkuNDg5LDEzOS41MjIsMTQ5LjQ4OSwxNDQu
+       MDEsMTQ2LjcyNSwxNDYuNzc3IE0xOTguNDI2LDE0MS43MzINCgljMCwzMS4yNjMtMjUuNDMz
+       LDU2LjY5NC01Ni42OTMsNTYuNjk0Yy0zMS4yNiwwLTU2LjY5My0yNS40MzEtNTYuNjkzLTU2
+       LjY5NGMwLTMxLjI2LDI1LjQzNC01Ni42OTMsNTYuNjkzLTU2LjY5Mw0KCUMxNzIuOTkzLDg1
+       LjAzOSwxOTguNDI2LDExMC40NzIsMTk4LjQyNiwxNDEuNzMyeiBNMTMzLjcyNiwxMDYuNTA5
+       aDUuMTk4di05Ljc1MWgwLjA1MWw1LjQ3Nyw5Ljc1MWg1LjM1di0xNy44NUgxNDQuNnY5LjU1
+       aC0wLjA1DQoJbC01LjE5OS05LjU1aC01LjYyNVYxMDYuNTA5eiBNMTEyLjc0MywxMzIuOTAy
+       aC01LjQyM2wtMi4yMjcsMTEuMTc2aC0wLjA1bC0yLjEtMTEuMTc2aC00Ljg1MWwtMi4xNDks
+       MTEuMDI2aC0wLjA1bC0yLjE3Ni0xMS4wMjYNCgloLTUuNGw0Ljg1MSwxNy44NWg1LjM3NWwx
+       Ljg3NS0xMC44NzVoMC4wNWwxLjkyNSwxMC44NzVoNS4zNTFMMTEyLjc0MywxMzIuOTAyeiBN
+       MTQ5Ljg0NSwxODguNzU1YzAtMy4yNzItMi41MDEtNC40NDYtNS4wMjMtNS4xNDcNCgljLTIu
+       NTI1LTAuNzAxLTUuMDc2LTAuOTc3LTUuMTc2LTIuMjVjMC0xLjAwMiwxLjIyNC0xLjIsMS45
+       NzYtMS4yYzAuNTUsMCwxLjE3NCwwLjEyNiwxLjYyNCwwLjQ1YzAuNDUsMC4zLDAuNzUsMC43
+       NSwwLjY1MSwxLjQyNA0KCWg1LjE5OGMtMC4xNDktNC4zNTItMy41NzUtNS44MjQtNy40NS01
+       LjgyNGMtMy42NzYsMC03LjIsMS43NzMtNy4yLDUuOWMwLDMuNTk5LDMuMjI2LDQuMzczLDYu
+       MDUxLDUuMTc1DQoJYzMuMDc0LDAuODc0LDMuODUsMS4xMjUsMy44NSwyLjA1MWMwLDEuMzI0
+       LTEuMzc1LDEuNjI0LTIuMjczLDEuNjI0Yy0xLjAyNiwwLTIuMjI3LTAuMjI3LTIuNjI2LTEu
+       Mjk5DQoJYy0wLjEyNi0wLjMyNS0wLjItMC43MjUtMC4yLTEuMTc4aC01LjQ5OWMwLjA0OCw1
+       LjcwMSw1LjgyNCw2LjQyNiw3Ljg1LDYuNDI2QzE0NS41NywxOTQuOTA0LDE0OS44NDUsMTkz
+       LjQwNCwxNDkuODQ1LDE4OC43NTV6DQoJIE0xNzAuMzI4LDE2Ni43OTZjMC0wLjQ3Ni0wLjEt
+       MC45MjctMC4yNy0xLjM0MmwtMTIuNDUzLTM3LjM2Yy0wLjAwNi0wLjAyNS0wLjAyMS0wLjA0
+       OC0wLjAyNy0wLjA3Mg0KCWMtMC4wMjQtMC4wNjYtMC4wNTEtMC4xMy0wLjA4LTAuMTkzYy0w
+       LjAzMi0wLjA3Ni0wLjA2Mi0wLjE0OS0wLjEtMC4yMjFjLTAuMDMxLTAuMDYzLTAuMDY3LTAu
+       MTIzLTAuMTA0LTAuMTg1DQoJYy0wLjA0LTAuMDY4LTAuMDc5LTAuMTM2LTAuMTI1LTAuMjAx
+       Yy0wLjAzOS0wLjA1OS0wLjA4NC0wLjExNi0wLjEyNy0wLjE3MWMtMC4wNDctMC4wNjItMC4w
+       OTQtMC4xMjMtMC4xNDUtMC4xNzkNCgljLTAuMDQ5LTAuMDU2LTAuMTAyLTAuMTA3LTAuMTU0
+       LTAuMTZjLTAuMDUzLTAuMDUzLTAuMTA0LTAuMTA1LTAuMTU4LTAuMTUzYy0wLjA1OS0wLjA1
+       MS0wLjExNy0wLjA5Ny0wLjE4LTAuMTQ0DQoJYy0wLjA1Ny0wLjA0My0wLjExMS0wLjA4Ny0w
+       LjE3Mi0wLjEyN2MtMC4wNjMtMC4wNDUtMC4xMzMtMC4wODMtMC4yMDItMC4xMjRjLTAuMDYx
+       LTAuMDM1LTAuMTE5LTAuMDcyLTAuMTgzLTAuMTA0DQoJYy0wLjA3LTAuMDM3LTAuMTQ2LTAu
+       MDY3LTAuMjIyLTAuMWMtMC4wNjMtMC4wMjctMC4xMjctMC4wNTUtMC4xOTItMC4wNzljLTAu
+       MDI0LTAuMDA5LTAuMDQ4LTAuMDItMC4wNzItMC4wMjlsLTM3LjU4My0xMi41MjcNCgljLTAu
+       MDIxLTAuMDA3LTAuMDQxLTAuMDA4LTAuMDYzLTAuMDE1Yy0wLjEwNi0wLjAzNS0wLjIxOC0w
+       LjA1Ni0wLjMyNi0wLjA3OWMtMC4wODgtMC4wMTgtMC4xNzItMC4wNDEtMC4yNi0wLjA1Mw0K
+       CWMtMC4xMDItMC4wMTMtMC4yMDItMC4wMTUtMC4zMDYtMC4wMmMtMC4wOTQtMC4wMDUtMC4x
+       ODgtMC4wMTItMC4yODEtMC4wMDljLTAuMDk5LDAuMDAzLTAuMTk3LDAuMDE5LTAuMjk2LDAu
+       MDI5DQoJYy0wLjA5NCwwLjAxMi0wLjE4OCwwLjAyLTAuMjgzLDAuMDM4Yy0wLjA5NCwwLjAx
+       OS0wLjE4NywwLjA1LTAuMjgxLDAuMDc3Yy0wLjA5NSwwLjAyNy0wLjE5LDAuMDUyLTAuMjgz
+       LDAuMDg4DQoJYy0wLjA4NSwwLjAzMi0wLjE2NCwwLjA3My0wLjI0NiwwLjExMmMtMC4xMDEs
+       MC4wNDctMC4xOTksMC4wOTMtMC4yOTQsMC4xNDljLTAuMDIxLDAuMDExLTAuMDQyLDAuMDE5
+       LTAuMDYyLDAuMDMNCgljLTAuMDU2LDAuMDM1LTAuMTAyLDAuMDc4LTAuMTU0LDAuMTE2Yy0w
+       LjA5MywwLjA2NC0wLjE4NCwwLjEyNy0wLjI3MSwwLjIwMWMtMC4wNzEsMC4wNjEtMC4xMzQs
+       MC4xMjUtMC4xOTksMC4xOQ0KCWMtMC4wNzUsMC4wNzMtMC4xNDgsMC4xNDYtMC4yMTgsMC4y
+       MjhjLTAuMDYyLDAuMDc2LTAuMTE5LDAuMTU2LTAuMTc2LDAuMjM2Yy0wLjA0NCwwLjA2LTAu
+       MDk1LDAuMTE2LTAuMTM0LDAuMTgxDQoJYy0wLjAxNSwwLjAyMi0wLjAyMSwwLjA0Ny0wLjAz
+       NiwwLjA3MWMtMC4wNDcsMC4wODItMC4wODYsMC4xNjgtMC4xMjcsMC4yNTNjLTAuMDQ3LDAu
+       MDk0LTAuMDk1LDAuMTg5LTAuMTMyLDAuMjg2DQoJYy0wLjAzLDAuMDc4LTAuMDQ5LDAuMTYt
+       MC4wNzIsMC4yNGMtMC4wMzQsMC4xMDgtMC4wNjgsMC4yMTUtMC4wOTEsMC4zMjZjLTAuMDE1
+       LDAuMDc4LTAuMDIsMC4xNTctMC4wMywwLjIzNg0KCWMtMC4wMTUsMC4xMTQtMC4wMywwLjIy
+       OC0wLjAzNSwwLjM0M2MtMC4wMDIsMC4wNzksMC4wMDYsMC4xNTksMC4wMSwwLjIzOGMwLjAw
+       MywwLjExNywwLjAwNywwLjIzMiwwLjAyMiwwLjM0OA0KCWMwLjAxLDAuMDc2LDAuMDMsMC4x
+       NSwwLjA0NiwwLjIyNmMwLjAyMywwLjEyMSwwLjA0OCwwLjI0LDAuMDg2LDAuMzU4YzAuMDA2
+       LDAuMDE5LDAuMDA3LDAuMDM5LDAuMDE0LDAuMDU4bDEyLjUyNiwzNy41ODMNCgljMC4wMDgs
+       MC4wMjQsMC4wMiwwLjA0OSwwLjAyOSwwLjA3M2MwLjAyMiwwLjA2MiwwLjA0OSwwLjEyNCww
+       LjA3NSwwLjE4N2MwLjAzMSwwLjA3NiwwLjA2NiwwLjE1NCwwLjEwMywwLjIyOQ0KCWMwLjAz
+       LDAuMDYxLDAuMDY1LDAuMTE2LDAuMDk5LDAuMTc2YzAuMDQyLDAuMDY4LDAuMDg0LDAuMTQ0
+       LDAuMTMsMC4yMTFjMC4wMzksMC4wNTUsMC4wODEsMC4xMDcsMC4xMjEsMC4xNjENCgljMC4w
+       NSwwLjA2MywwLjA5OSwwLjEyOCwwLjE1MSwwLjE4OGMwLjA0NiwwLjA1MSwwLjA5NiwwLjA5
+       OSwwLjE0NiwwLjE0OGMwLjA1NSwwLjA1NywwLjExLDAuMTExLDAuMTY4LDAuMTYzDQoJYzAu
+       MDU2LDAuMDQ4LDAuMTEyLDAuMDkxLDAuMTY5LDAuMTM2YzAuMDYsMC4wNDUsMC4xMTksMC4w
+       OTUsMC4xODIsMC4xMzZjMC4wNjIsMC4wNDQsMC4xMjcsMC4wODEsMC4xODksMC4xMTgNCglj
+       MC4wNjUsMC4wMzUsMC4xMjksMC4wNzYsMC4xOTgsMC4xMDljMC4wNjcsMC4wMzUsMC4xMzYs
+       MC4wNjIsMC4yMDUsMC4wOTRjMC4wNjgsMC4wMjgsMC4xMzksMC4wNiwwLjIxLDAuMDg2DQoJ
+       YzAuMDIzLDAuMDA4LDAuMDQ0LDAuMDIsMC4wNjcsMC4wMjVsMzcuNTgzLDEyLjUyN2MwLjA5
+       MywwLjAyOSwwLjE4NywwLjA0NSwwLjI3OSwwLjA2OGMwLjA3MSwwLjAxOSwwLjE0NCwwLjA0
+       MSwwLjIxNywwLjA1Mw0KCWMwLjIwNSwwLjAzNywwLjQxLDAuMDYxLDAuNjEzLDAuMDYxYzAu
+       MDA2LDAsMC4wMDgsMCwwLjAxMiwwYzAuMDAyLDAsMC4wMDQsMCwwLjAwNywwYzAuMDI4LDAs
+       MC4wNTksMCwwLjA4OSwwDQoJYzAuMTI5LTAuMDA1LDAuMjU4LTAuMDE0LDAuMzg1LTAuMDMx
+       aDAuMDAzYzAuMTU2LTAuMDIxLDAuMzEtMC4wNTYsMC40Ni0wLjA5N2MwLjAwOC0wLjAwMyww
+       LjAxNi0wLjAwNCwwLjAyNC0wLjAwNg0KCUMxNjkuMjMyLDE2OS43ODgsMTcwLjMyOCwxNjgu
+       NDIzLDE3MC4zMjgsMTY2Ljc5NnogTTE5NC43NjgsMTUwLjYxOHYtNC41NzVoLTkuNTV2LTIu
+       MjI3aDguNDI1di00LjI1aC04LjQyNXYtMi4yMjZoOS4yNzV2LTQuNTc2DQoJaC0xNC43NzZ2
+       MTcuODUyTDE5NC43NjgsMTUwLjYxOEwxOTQuNzY4LDE1MC42MTh6Ii8+DQo8L3N2Zz4NCg==
+      </office:binary-data>
+      <text:p/>
+     </draw:image>
+    </draw:frame>
+    <draw:frame draw:style-name="gr4" draw:text-style-name="P11" draw:layer="layout" svg:width="4.027cm" svg:height="4.027cm" svg:x="21.4cm" svg:y="9.837cm">
+     <draw:image xlink:href="">
+      <office:binary-data>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9y
+       OiBBZG9iZSBJbGx1c3RyYXRvciAxNS4xLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBW
+       ZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9X
+       M0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8x
+       LjEvRFREL3N2ZzExLmR0ZCI+DQo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHht
+       bG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93
+       d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB3aWR0aD0iMTQxLjcz
+       MnB4IiBoZWlnaHQ9IjE0MS43MzJweCIgdmlld0JveD0iNzAuODY2IDcwLjg2NiAxNDEuNzMy
+       IDE0MS43MzIiDQoJIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgNzAuODY2IDcwLjg2NiAxNDEu
+       NzMyIDE0MS43MzIiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPGc+DQoJPHBhdGggZmlsbD0i
+       I0RENDgxNCIgZD0iTTEzMS4wODYsMTI0LjAzNGMwLDEuOTU2LTEuNTg2LDMuNTQ0LTMuNTQ1
+       LDMuNTQ0Yy0xLjk1NSwwLTMuNTQxLTEuNTg4LTMuNTQxLTMuNTQ0DQoJCWMwLTEuOTU4LDEu
+       NTg2LTMuNTQzLDMuNTQxLTMuNTQzQzEyOS41LDEyMC40OTEsMTMxLjA4NiwxMjIuMDc3LDEz
+       MS4wODYsMTI0LjAzNCIvPg0KCTxwYXRoIGZpbGw9IiNERDQ4MTQiIGQ9Ik0xNDEuNzI5LDg1
+       LjA0Yy02LjcxMywwLTEzLjE1OCwxLjE3Ni0xOS4xNDIsMy4zM2MyMi41NzQsNy40NzgsMzgu
+       OTA3LDI4Ljc4NCwzOC45MDcsNTMuODM1DQoJCWMwLDAuMTMzLTAuMDA1LDAuMjY4LTAuMDEy
+       LDAuNDAyYy0wLjIwMSwzLjczNC0zLjI5NSw2LjY5OS03LjA3Niw2LjY5OWgtMTcuNzE5djEz
+       Ljc1OGgtMi4wNTljLTEuOTU4LDAtMy41NDQsMS41ODYtMy41NDQsMy41NDUNCgkJYzAsMS45
+       NTUsMS41ODYsMy41NDMsMy41NDQsMy41NDNoMi4wNTl2MTUuMDA5YzAsMi41MjYtMS4zNDcs
+       NC44NjYtMy41MzcsNi4xMzRjLTIuOTQzLDEuNzAzLTYuMDMxLDMuMTI1LTkuMjE2LDQuMjY2
+       DQoJCWM1LjYwMiwxLjg1NSwxMS41ODUsMi44NjUsMTcuNzk1LDIuODY1YzMxLjI2MywwLDU2
+       LjY5Ny0yNS40MzIsNTYuNjk3LTU2LjY5MkMxOTguNDI2LDExMC40NzIsMTcyLjk5Miw4NS4w
+       NCwxNDEuNzI5LDg1LjA0eg0KCQkgTTE0OC44NDEsMTcwLjE0MWMtMS45NiwwLTMuNTQyLTEu
+       NTg2LTMuNTQyLTMuNTQzczEuNTgyLTMuNTQzLDMuNTQyLTMuNTQzYzEuOTU1LDAsMy41NDMs
+       MS41ODYsMy41NDMsMy41NDMNCgkJUzE1MC43OTYsMTcwLjE0MSwxNDguODQxLDE3MC4xNDF6
+       IE0xNjIuOTk1LDE3MC4xNDFjLTEuOTU4LDAtMy41NDItMS41ODYtMy41NDItMy41NDNzMS41
+       ODQtMy41NDMsMy41NDItMy41NDMNCgkJczMuNTQ0LDEuNTg2LDMuNTQ0LDMuNTQzUzE2NC45
+       NTMsMTcwLjE0MSwxNjIuOTk1LDE3MC4xNDF6IE0xNzcuMjUxLDE3MC4xNDFjLTEuOTU3LDAt
+       My41NDItMS41ODYtMy41NDItMy41NDMNCgkJczEuNTg1LTMuNTQzLDMuNTQyLTMuNTQzYzEu
+       OTU4LDAsMy41NDQsMS41ODYsMy41NDQsMy41NDNTMTc5LjIwOSwxNzAuMTQxLDE3Ny4yNTEs
+       MTcwLjE0MXoiLz4NCgk8cGF0aCBmaWxsPSIjREQ0ODE0IiBkPSJNMTI3LjU1MSwxMTMuNGM1
+       Ljg2MiwwLDEwLjYzLDQuNzY5LDEwLjYzLDEwLjYyOWMwLDUuODYtNC43NjgsMTAuNjI5LTEw
+       LjYzLDEwLjYyOQ0KCQljLTUuODYsMC0xMC42My00Ljc2OC0xMC42My0xMC42MjlDMTE2Ljky
+       MSwxMTguMTY4LDEyMS42OTEsMTEzLjQsMTI3LjU1MSwxMTMuNCBNMTA5LjgzNCwxMjQuMDMN
+       CgkJYzAsOS43NjgsNy45NDgsMTcuNzE1LDE3LjcxNywxNy43MTVjOS43NjksMCwxNy43MTkt
+       Ny45NDcsMTcuNzE5LTE3LjcxNWMwLTkuNzctNy45NDgtMTcuNzE3LTE3LjcxNS0xNy43MTdI
+       OTcuNTAxDQoJCWMtMS43OTIsMi4yMzEtMy40MTgsNC42LTQuODYsNy4wODdoMjAuNzQ2QzEx
+       MS4xNTksMTE2LjM2MiwxMDkuODM0LDEyMC4wNDQsMTA5LjgzNCwxMjQuMDMiLz4NCjwvZz4N
+       Cjwvc3ZnPg0K
+      </office:binary-data>
+      <text:p/>
+     </draw:image>
+    </draw:frame>
+    <draw:frame draw:style-name="gr4" draw:text-style-name="P11" draw:layer="layout" svg:width="4.027cm" svg:height="4.027cm" svg:x="21.4cm" svg:y="14.073cm">
+     <draw:image xlink:href="./使用到的資源/圖片/Ubuntu%20Design%20Pictograms/pictogram-download-orange-hex.svg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad">
+      <text:p/>
+     </draw:image>
+    </draw:frame>
+    <draw:frame draw:style-name="gr4" draw:text-style-name="P11" draw:layer="layout" svg:width="4.027cm" svg:height="4.027cm" svg:x="21.4cm" svg:y="5.6cm">
+     <draw:image xlink:href="">
+      <office:binary-data>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9y
+       OiBBZG9iZSBJbGx1c3RyYXRvciAxNS4xLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBW
+       ZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9X
+       M0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8x
+       LjEvRFREL3N2ZzExLmR0ZCI+DQo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHht
+       bG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93
+       d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB3aWR0aD0iMTQxLjcz
+       MnB4IiBoZWlnaHQ9IjE0MS43MzJweCIgdmlld0JveD0iNzAuODY2IDcwLjg2NiAxNDEuNzMy
+       IDE0MS43MzIiDQoJIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgNzAuODY2IDcwLjg2NiAxNDEu
+       NzMyIDE0MS43MzIiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPHBhdGggZmlsbD0iI0RENDgx
+       NCIgZD0iTTIwNi4xMDUsMTM5LjAwMmMtMS4wOTYtMi42NDgtMy42ODEtNC4zNzUtNi41NDct
+       NC4zNzVoLTcuNTkyYy0zLjUxLTI3LjkxNy0yNy4zODItNDkuNTg4LTU2LjIzNi00OS41ODgN
+       CgljLTMxLjI2LDAtNTYuNjkyLDI1LjQzNC01Ni42OTIsNTYuNjk2YzAsMzEuMjU5LDI1LjQy
+       Niw1Ni42OTEsNTYuNjc4LDU2LjY5MWMxLjg3OSwwLDMuNjgyLTAuNzQ2LDUuMDEyLTIuMDc2
+       DQoJYzEuMzI4LTEuMzMsMi4wNzUtMy4xMzMsMi4wNzQtNS4wMTJsLTAuMDExLTYyLjgzMmM5
+       Ljc2NS0yLjIyNCwxNy44MzUtOC45MzcsMjEuOTE5LTE3Ljg0OWM2LjY4LDYuMjMxLDExLjM1
+       NCwxNC41ODEsMTIuOTM5LDIzLjk3DQoJaC02LjQ4M2MtMi44NjYsMC01LjQ1MSwxLjcyNy02
+       LjU0OCw0LjM3NWMtMS4wOTgsMi42NDctMC40OSw1LjY5OCwxLjUzNiw3LjcyM2wxNC4xOTYs
+       MTQuMTk2YzEuMzgzLDEuMzg2LDMuMTk2LDIuMDc1LDUuMDExLDIuMDc1DQoJYzEuODEzLDAs
+       My42MjgtMC42ODksNS4wMTEtMi4wNzVsMTQuMTk1LTE0LjE5NkMyMDYuNTk4LDE0NC43LDIw
+       Ny4yMDQsMTQxLjY1LDIwNi4xMDUsMTM5LjAwMnogTTEyOC42MTgsMTEzLjY0Mw0KCWMtNC42
+       NDktMi4wNDEtOC4yNjQtNi4wMTYtOS44MDctMTAuOTA3YzMuMDk3LTEuMzQ4LDYuMzc5LTIu
+       MzQ4LDkuODA1LTIuOTI3TDEyOC42MTgsMTEzLjY0M3ogTTEwNi43MjIsMTEwLjY4Nw0KCWM0
+       LjA4OCw4Ljg5NSwxMi4xNDgsMTUuNTk0LDIxLjg5NywxNy44MTdsMC4wMDEsNi4xNkg5My44
+       MUM5NS4zODksMTI1LjI3NSwxMDAuMDUyLDExNi45MjMsMTA2LjcyMiwxMTAuNjg3eiBNOTMu
+       ODE2LDE0OC44MzkNCgloMzQuODA4bDAuMDAxLDYuMDkxYy05Ljc2MiwyLjIyMy0xNy44Mjgs
+       OC45MzUtMjEuOTE0LDE3Ljg0NEMxMDAuMDU1LDE2Ni41NDQsOTUuMzk4LDE1OC4yMSw5My44
+       MTYsMTQ4LjgzOXogTTExOC44LDE4MC43MjcNCgljMS41MzgtNC45MDgsNS4xNjItOC44OTYs
+       OS44MjYtMTAuOTM5bDAuMDAyLDEzLjg3NEMxMjUuMTk1LDE4My4wODEsMTIxLjkwNCwxODIu
+       MDc5LDExOC44LDE4MC43Mjd6IE0xNDIuNzkxLDExMy42NDkNCglsLTAuMDAyLTEzLjg1MWMz
+       LjQzNCwwLjU3Niw2LjcyMywxLjU3NCw5LjgyNiwyLjkyM0MxNTEuMDc0LDEwNy42MjQsMTQ3
+       LjQ1MiwxMTEuNjA4LDE0Mi43OTEsMTEzLjY0OXoiLz4NCjwvc3ZnPg0K
+      </office:binary-data>
+      <text:p/>
+     </draw:image>
+    </draw:frame>
+    <presentation:notes draw:style-name="dp3">
+     <draw:page-thumbnail draw:style-name="gr5" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.075cm" svg:y="2.257cm" draw:page-number="8" presentation:class="page"/>
      <draw:frame presentation:style-name="pr12" draw:text-style-name="P10" draw:layer="layout" svg:width="16.799cm" svg:height="13.364cm" svg:x="2.1cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
       <draw:text-box/>
      </draw:frame>
